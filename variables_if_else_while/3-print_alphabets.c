@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  *
- * Description: Prints the alphabet in lowercase and then uppercase using putchar
+ * Description: Prints the alphabet in lowercase and then
+ * uppercase using putchar
  *
  * Return: Always 0 (Success)
  */
